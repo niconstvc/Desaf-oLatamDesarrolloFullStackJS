@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+.principal {
+    width: 90%;
+    padding: 10px 170px;
+    margin-right: 20px; 
+    text-align: left;
+    font-size: 40px;
+}
+
+.logo {
+    width: 30%; 
+    height: auto;
+    padding: 10px 170px;
+}
+
+.intro{
+    text-align:center;
+    color: white;
+    font-size: 18px;
+    background-position: center;
+}
+
+.produccion {
+    margin: 0px;
+    padding: 50px 350px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    text-align: left;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+img.world1 {
+    width: 300px;
+    height: auto;
+    margin: 20px;
+}
+
+img.world2 {
+    width: 300px;
+    height: auto;
+    margin: 20px;
+}
+
+img.world3 {
+    width: 300px;
+    height: auto;
+    margin: 20px;
+}
+
+
+.piedepagina {
+    margin: 40px;
+    padding: 0px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+.regreso {
+    font-size: 13px;
+    color: rgb(181, 154, 15);
+   
+}

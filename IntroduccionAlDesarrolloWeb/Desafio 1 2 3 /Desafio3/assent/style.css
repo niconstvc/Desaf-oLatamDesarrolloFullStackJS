@@ -1,0 +1,121 @@
+body {
+  background-color: black;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+  color:white;
+}
+
+header {
+  justify-content: center;
+  font-size: 53px;
+  line-height:0%;
+  opacity: 1;
+  margin-top: 0px;
+  margin-left: 0px;
+  background-color: black;
+}
+
+.primera {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0%;
+}
+
+.primera img {
+  width: 100%;
+  height: 100%;
+  
+}
+
+.produc {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.tion{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.imagen1{
+  width: 399px; 
+  height: 237px;
+  margin-top: 10px;
+  margin-bottom: 35px;
+}
+
+.text1 {
+  color:white;
+  width: 475px;
+  height: 197px;
+  padding-right: 150px;
+  font-size: 16px;
+  text-align: left;
+  opacity: 1;
+}
+
+.cara {
+  display: block;
+  color: white;
+  background-color: #1E1A13;
+  margin-bottom: 10px;
+  padding: 50px;
+  font-size: 40px;
+}
+
+.cteri {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  align-items: center;
+  
+  font-size: 25px;
+}
+
+p {
+  text-align: center;
+}
+
+.divIcon {
+  display: block;
+  text-align: center;
+  align-items: center;
+}
+
+.galeria {
+  display: flex;
+  justify-content: center;
+}
+
+.gale {
+  padding: 50px;
+  display: block;
+  display: flex; 
+  width: 316px; 
+  height: 202px;
+  align-content: center;
+  justify-content: center;
+}
+
+.gale img {
+  margin: 0 20px 20px 0;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: #1E1A13;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  padding-top: 30px;
+  }
+
