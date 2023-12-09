@@ -1,2 +1,2 @@
-# Desaf-oLatamDesarrolloFullStackJS
+# DesafioLatamDesarrolloFullStackJS
 Pruebas y Examenes de JS
